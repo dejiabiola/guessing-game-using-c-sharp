@@ -1,4 +1,4 @@
-### Simple Guessing Game
+# Simple Guessing Game
   A simple guessing game built with C#.
 
 ## Project Description
