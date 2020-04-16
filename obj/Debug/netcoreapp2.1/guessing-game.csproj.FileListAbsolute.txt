@@ -1,0 +1,11 @@
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/bin/Debug/netcoreapp2.1/guessing-game.deps.json
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/bin/Debug/netcoreapp2.1/guessing-game.runtimeconfig.json
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/bin/Debug/netcoreapp2.1/guessing-game.runtimeconfig.dev.json
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/bin/Debug/netcoreapp2.1/guessing-game.dll
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/bin/Debug/netcoreapp2.1/guessing-game.pdb
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/obj/Debug/netcoreapp2.1/guessing-game.csprojAssemblyReference.cache
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/obj/Debug/netcoreapp2.1/guessing-game.csproj.CoreCompileInputs.cache
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/obj/Debug/netcoreapp2.1/guessing-game.AssemblyInfoInputs.cache
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/obj/Debug/netcoreapp2.1/guessing-game.AssemblyInfo.cs
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/obj/Debug/netcoreapp2.1/guessing-game.dll
+/Users/adedejiabiola/Desktop/start.ng/cSharp/guessing-game/obj/Debug/netcoreapp2.1/guessing-game.pdb
